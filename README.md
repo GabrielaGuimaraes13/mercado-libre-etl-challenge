@@ -124,7 +124,7 @@ Es necesario tener instalado:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/GabrielaGuimaraes13/mercado-libre-etl-challenge.git)
 cd mercado-livre-etl
 ```
 
