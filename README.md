@@ -510,6 +510,24 @@ El método de envío encontrado fue `me2`. Dentro de ese método se identificaro
 
 ---
 
+## Dashboard
+
+Como complemento al análisis, se creó un dashboard en Looker Studio para visualizar los principales resultados obtenidos en la última ejecución del pipeline.
+
+El dashboard presenta:
+- total de publicaciones y vendedores;
+- precio promedio en USD;
+- porcentaje de publicaciones con garantía;
+- distribución por tipo de logística;
+- vendedores con múltiples publicaciones.
+
+![Dashboard Mercado Libre](images/dashboard.png)
+
+### Dashboard interactivo
+
+[Ver dashboard en Looker Studio](https://datastudio.google.com/reporting/37984768-50e2-45ca-8dfe-0ef1325f09eb)
+
+
 ## Decisiones y problemas encontrados
 
 ### La búsqueda devolvía otros modelos
